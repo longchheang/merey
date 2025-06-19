@@ -1,6 +1,13 @@
 # 🎬 Laravel + React Movie Streaming Starter Kit
 
-A modern full-stack **Movie Streaming Website** starter kit built with **Laravel (backend)** and **React.js (frontend via Inertia.js)**. It includes an **Admin Dashboard with CMS features**, HLS video streaming, dark mode support, responsive UI, genre/language management, and more.
+# 🧩 Laravel + React + Inertia.js: Full-Stack SPA Starter
+
+A modern **Single Page Application (SPA)** stack using:
+
+- 🔧 **Laravel** as the backend framework
+- ⚛️ **React.js** as the frontend
+- ⚡ **Inertia.js** to bridge Laravel and React
+- 🎯 All in a unified full-stack development experience
 
 ---
 
@@ -44,7 +51,7 @@ A modern full-stack **Movie Streaming Website** starter kit built with **Laravel
 - PHP >= 8.4
 - Composer
 - Node.js + npm
-- MySQL or SQLite
+- MySQL
 - FFmpeg installed on your server
 
 ### Steps
