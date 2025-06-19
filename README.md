@@ -52,13 +52,13 @@ A modern full-stack **Movie Streaming Website** starter kit built with **Laravel
 
 # 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/movie-streaming-starter.git
-cd movie-streaming-starter
+git clone https://github.com/longchheang/merey.git
+cd merey
 ```
 
 # 2. Install dependencies
-composer install
 ```bash
+composer install
 npm install
 ```
 
@@ -80,4 +80,25 @@ npm run dev  # or npm run build
 # 6. Run the server
 ```bash
 php artisan serve
+```
+
+# 🔐 user Access
+
+Email : 
+```bash
+user@email.com
+```
+Password : 
+```bash
+user
+```
+
+# 🔐 Admin Access
+Email :
+```bash
+admin@email.com
+```
+Password : 
+```bash
+admin
 ```
