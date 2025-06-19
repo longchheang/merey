@@ -41,7 +41,7 @@ A modern full-stack **Movie Streaming Website** starter kit built with **Laravel
 ## ⚙️ Installation
 
 ### Requirements
-- PHP >= 8.2
+- PHP >= 8.4
 - Composer
 - Node.js + npm
 - MySQL or SQLite
